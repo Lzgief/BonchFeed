@@ -1,0 +1,7 @@
+#Mon Aug 12 19:51:09 MSK 2019
+base.0=/home/lzgief/bin/BonchFeed/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/lzgief/bin/BonchFeed/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/out

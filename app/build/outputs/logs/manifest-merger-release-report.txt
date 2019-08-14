@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/lzgief/.gradle/caches/transforms-2/files-2.1/5b40a19b0ebaa1bd3be92aa8bb1392e8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6470a90b4160a3c003be136aa66610a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/852222f7ab4287fb7a6b40d209b2f8c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/dd8f845cf22f03ab8a8ce8e571264db5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/918179921547833d8cc3af6657ba4540/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/eaf8faf4b43107516e6c7bb170dbbbf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/bd8e3ab82e0e6bb4930b1d768a3b6e54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/d55ba017db53461078ce96b88665c504/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2f50fc7a43cdb01c0d6c58404ba34cb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/1f169bd4c24f822b42668015d3310816/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/149391b0ffe941a831c497d33553e823/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7289a3c14c370d78ab398793911cafde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/0085cc85344707da64baf0eca1c009f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/91b5ad794b396134ff69cc87f8a2b7d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/4c3f2a158fb0e0894f24ed41aa9db5b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8e6f4d1bcc72da8ba8e1a4337d63b1f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2a5daaee3805090cced3c9a86d51da30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/811e4a029f382406b04501d723e6eae7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8946dd76c7f2945a406acce67a249a0f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/c56e62b48170529fb95ebab0dc9f4da3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/fa269f7b2cdac4232f52d11f7b8f0014/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7bcd940cc80497494a035a9fc7e3944d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/ce8933010a0c7d447478b70d8466fc86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6a497835e2844f298644268c7fe4a5e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2d479513cbdd660f4d026ff9df60f6d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/daae2ad725c26876a8b2c1ce3a831a0b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/de24074e7ab6e3a33e271e8c501a6708/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/abaa5fbefc875a1d8cdf296910499098/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/lzgief/.gradle/caches/transforms-2/files-2.1/5b40a19b0ebaa1bd3be92aa8bb1392e8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/lzgief/.gradle/caches/transforms-2/files-2.1/5b40a19b0ebaa1bd3be92aa8bb1392e8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/811e4a029f382406b04501d723e6eae7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/811e4a029f382406b04501d723e6eae7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:13:9-40
+activity#ss.kupp.bonchfeed.View.MainActivity
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:14:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/lzgief/.gradle/caches/transforms-2/files-2.1/5b40a19b0ebaa1bd3be92aa8bb1392e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/lzgief/.gradle/caches/transforms-2/files-2.1/5b40a19b0ebaa1bd3be92aa8bb1392e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6470a90b4160a3c003be136aa66610a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6470a90b4160a3c003be136aa66610a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/852222f7ab4287fb7a6b40d209b2f8c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/852222f7ab4287fb7a6b40d209b2f8c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/dd8f845cf22f03ab8a8ce8e571264db5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/dd8f845cf22f03ab8a8ce8e571264db5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/918179921547833d8cc3af6657ba4540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/918179921547833d8cc3af6657ba4540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/eaf8faf4b43107516e6c7bb170dbbbf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/eaf8faf4b43107516e6c7bb170dbbbf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/bd8e3ab82e0e6bb4930b1d768a3b6e54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/bd8e3ab82e0e6bb4930b1d768a3b6e54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/d55ba017db53461078ce96b88665c504/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/d55ba017db53461078ce96b88665c504/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2f50fc7a43cdb01c0d6c58404ba34cb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2f50fc7a43cdb01c0d6c58404ba34cb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/1f169bd4c24f822b42668015d3310816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/1f169bd4c24f822b42668015d3310816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/149391b0ffe941a831c497d33553e823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/149391b0ffe941a831c497d33553e823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7289a3c14c370d78ab398793911cafde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7289a3c14c370d78ab398793911cafde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/0085cc85344707da64baf0eca1c009f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/0085cc85344707da64baf0eca1c009f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/91b5ad794b396134ff69cc87f8a2b7d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/91b5ad794b396134ff69cc87f8a2b7d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/4c3f2a158fb0e0894f24ed41aa9db5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/4c3f2a158fb0e0894f24ed41aa9db5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8e6f4d1bcc72da8ba8e1a4337d63b1f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8e6f4d1bcc72da8ba8e1a4337d63b1f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2a5daaee3805090cced3c9a86d51da30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2a5daaee3805090cced3c9a86d51da30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/b147d07ed2488d983dc8fe349430c36b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/811e4a029f382406b04501d723e6eae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/811e4a029f382406b04501d723e6eae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8946dd76c7f2945a406acce67a249a0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/8946dd76c7f2945a406acce67a249a0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/c56e62b48170529fb95ebab0dc9f4da3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/c56e62b48170529fb95ebab0dc9f4da3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/fa269f7b2cdac4232f52d11f7b8f0014/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/fa269f7b2cdac4232f52d11f7b8f0014/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7bcd940cc80497494a035a9fc7e3944d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/7bcd940cc80497494a035a9fc7e3944d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/ce8933010a0c7d447478b70d8466fc86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/ce8933010a0c7d447478b70d8466fc86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6a497835e2844f298644268c7fe4a5e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/6a497835e2844f298644268c7fe4a5e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2d479513cbdd660f4d026ff9df60f6d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lzgief/.gradle/caches/transforms-2/files-2.1/2d479513cbdd660f4d026ff9df60f6d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/daae2ad725c26876a8b2c1ce3a831a0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/daae2ad725c26876a8b2c1ce3a831a0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/de24074e7ab6e3a33e271e8c501a6708/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/de24074e7ab6e3a33e271e8c501a6708/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/abaa5fbefc875a1d8cdf296910499098/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lzgief/.gradle/caches/transforms-2/files-2.1/abaa5fbefc875a1d8cdf296910499098/AndroidManifest.xml:20:5-44
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		ADDED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lzgief/bin/BonchFeed/app/src/main/AndroidManifest.xml

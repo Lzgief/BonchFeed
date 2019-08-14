@@ -1,0 +1,4 @@
+#Wed Aug 14 22:48:14 MSK 2019
+base.0=/home/lzgief/bin/BonchFeed/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
